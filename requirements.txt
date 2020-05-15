@@ -70,7 +70,7 @@ pytube==9.5.0
 pytz==2018.9
 pyxattr==0.6.0
 pyxdg==0.25
-PyYAML==3.12
+PyYAML==5.1
 reportlab==3.4.0
 requests==2.21.0
 requests-unixsocket==0.1.5
