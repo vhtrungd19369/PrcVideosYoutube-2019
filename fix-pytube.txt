@@ -1,0 +1,3 @@
+pip install pytube --upgrade
+# and/or
+pip install git+https://github.com/nficano/pytube.git --upgrade
